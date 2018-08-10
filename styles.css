@@ -1,0 +1,42 @@
+html,body{
+  font-family: Helvetica;
+  text-align:center;
+  min-width:260px;
+  color:black;
+}
+#main{
+  padding: 10px;
+  background: lightgray;
+}
+img{
+  max-width: 80%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:10%;
+  width:80%;
+  border:5px solid white;
+  background:white;
+}
+
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width:720px;
+  margin:0 auto;
+  text-align:justify ;
+}
+li{
+  margin: 15px;
+}
+
+#title{
+  margin: auto;
+  text-align : center;
+  background: lightblue;
+  padding: 5px;
+}
